@@ -1,0 +1,40 @@
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe.config
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.Properties.Resources.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.CalisanBolumu.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.MusteriBolumu.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe.config
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.CalisanBolumu.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.MusteriBolumu.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.Properties.Resources.resources
+C:\Users\merve\Desktop\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe.config
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.CalisanBolumu.resources
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.MusteriBolumu.resources
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.Properties.Resources.resources
+C:\Users\merve\Desktop\Staj için belgeler\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe.config
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.pdb
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.CalisanBolumu.resources
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.MusteriBolumu.resources
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.Properties.Resources.resources
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\obj\Debug\NesneOdevDenemesi2.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.exe
+C:\Users\merve\Desktop\Merve Özler-132805001\NesneOdevDenemesi2 - Kopya\NesneOdevDenemesi2\bin\Debug\NesneOdevDenemesi2.pdb
